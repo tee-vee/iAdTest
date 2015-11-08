@@ -3,6 +3,8 @@
 //  iAd
 //
 //  Created by Aaron on 19/07/2015.
+//  Revised by Derek Yuen on 2015-11-08
+//
 //  Copyright © 2015 GeekyLemonDevelopment. All rights reserved.
 //
 
